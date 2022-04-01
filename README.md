@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **web apps development**
 
-- 💬 Ask me about **Structured Text, C++, focused on control retrofit of industrial machinary and implement of industry 4.0 with B&R technology**
+- 💬 Ask me about **Structured Text, C++, focused on control and update of industrial machinary and implement of industry 4.0 with B&R technology**
 
 - 📫 How to reach me **l.francisco.bj@gmail.com**
 
