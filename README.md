@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis Francisco Becerril Jurado</h1>
 <h3 align="center">A new frontend developer from México who loves to get started ideas of green energy</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisfbecerriljurado" alt="luisfbecerriljurado" /></a> </p>
-
 - 🔭 I’m currently working on **Innovaciones Renovables**
 
 - 🌱 I’m currently learning **front-end and back-end world**
