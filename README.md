@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Francisco Becerril Jurado</h1>
 <h3 align="center">A new frontend developer from México who loves to get started ideas of green energy</h3>
 
-- 🔭 I’m currently working on **Innovaciones Renovables**
+- 🔭 I’m currently working on **IBM**
 
 - 🌱 I’m currently learning **front-end and back-end world**
 
